@@ -9,13 +9,13 @@
 ### Diagrama de Caso de Uso
 
 <div>
- <img src="" width="76%">
+ <img src="diagramas/Diagrama de Caso de Uso - SGO.png" width="76%">
 </div>
 
 ### Diagrama de Classe
 
 <div>
- <img src="" width="76%">
+ <img src="diagramas/Diagrama de Classe - SGO.png" width="76%">
 </div>
 
 ### Diagrama de Componente
