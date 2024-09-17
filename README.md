@@ -21,12 +21,12 @@
 ### Diagrama de Componente
 
 <div>
- <img src="" width="76%">
+ <img src="diagramas/Component Diagram0.png" width="76%">
 </div>
 
 
 ### Diagrama de Implantação
 
 <div>
- <img src="" width="76%">
+ <img src="diagramas/Deployment Diagram0.png" width="76%">
 </div>
