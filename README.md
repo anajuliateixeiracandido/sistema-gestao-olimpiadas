@@ -15,7 +15,7 @@
 ### Diagrama de Classe
 
 <div>
- <img src="diagramas/Diagrama de Classe - SGO.png" width="500px" height="500px">
+ <img src="diagramas/Diagrama de Classe -SGO.png" width="500px" height="500px">
 </div>
 
 ### Diagrama de Componente
