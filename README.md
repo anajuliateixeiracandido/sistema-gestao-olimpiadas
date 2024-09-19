@@ -91,7 +91,7 @@
 ### Diagrama de Pacote
 
 <div>
- <img src="imagens/Diagrama de Pacote - SGO.png" width="500px" height="500px">
+ <img src="imagens/Diagrama de Pacote -SGO.png" width="500px" height="500px">
 </div>
 
 ### Diagrama de Componente
